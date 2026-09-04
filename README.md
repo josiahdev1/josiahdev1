@@ -1,6 +1,6 @@
 <div align="center">
   
-  # ✨ Josiah Danielle Gallenero
+  # Josiah Danielle Gallenero
   
   [![Portfolio](https://img.shields.io/badge/🚀_Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://josiahh.vercel.app)
   [![GitHub](https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anyasauce)
