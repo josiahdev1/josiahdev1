@@ -1,6 +1,6 @@
 <div align="center">
   
-  # Josiah Danielle Gallenero
+  # Josiah Danielle Gallenero 👋
   
   [![Portfolio](https://img.shields.io/badge/🚀_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://josiahh.vercel.app)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anyasauce)
@@ -8,6 +8,15 @@
   [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josiahdanielle09gallenero@gmail.com)
   
   ### *"Building functional and fast solutions, one line of code at a time."*
+  
+  <br/>
+  
+  <p align="center">
+    <strong>Total time coded since Jul 9 2024</strong><br/>
+    <a href="https://wakatime.com/@af79a0b7-2a04-4c1a-927b-e2e975f55ce4">
+      <img src="https://wakatime.com/badge/user/af79a0b7-2a04-4c1a-927b-e2e975f55ce4.svg" alt="Total time coded since Jul 9 2024" style="height: 24px;" />
+    </a>
+  </p>
   
 </div>
 
@@ -113,10 +122,24 @@ Hey there! I'm **Josiah Danielle Gallenero**, a passionate **Software Developer*
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anyasauce&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anyasauce&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+  <a href="https://github.com/anyasauce">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anyasauce&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/anyasauce">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anyasauce&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+  </a>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anyasauce&theme=dark&hide_border=true&background=0d1117" alt="GitHub Streak" />
+  <br/><br/>
+  
+  <a href="https://github.com/anyasauce">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=anyasauce&theme=dark&hide_border=true&background=0d1117" alt="GitHub Streak" />
+  </a>
+  
+  <br/><br/>
+  
+  <a href="https://github.com/anyasauce">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=anyasauce&theme=github-dark&hide_border=true" alt="GitHub Activity Graph" />
+  </a>
   
 </div>
 
@@ -132,16 +155,6 @@ Hey there! I'm **Josiah Danielle Gallenero**, a passionate **Software Developer*
   | **Iloilo Startup Hackathon** | 2025 | Team Leader & Full Stack Developer |
   | **Dean's Lister** | 2023-2024 | Academic Excellence Recognition |
   | **UIPC Summer Bootcamp Mentor** | 2025 | Mentored 30+ students in frontend development |
-  
-</div>
-
----
-
-## WakaTime Stats
-
-<div align="center">
-  
-  **Total Coding Hours**: 1,594+ hours since July 2024
   
 </div>
 
