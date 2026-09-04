@@ -122,24 +122,18 @@ Hey there! I'm **Josiah Danielle Gallenero**, a passionate **Software Developer*
 
 <div align="center">
   
-  <a href="https://github.com/anyasauce">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anyasauce&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/anyasauce">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anyasauce&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top Languages" />
-  </a>
+  <!-- Static badges with your actual numbers -->
+  <img src="https://img.shields.io/badge/Repositories-84-blue?style=for-the-badge&logo=github" alt="Repositories" />
+  <img src="https://img.shields.io/badge/Stars-3-yellow?style=for-the-badge&logo=github" alt="Stars" />
+  <img src="https://img.shields.io/badge/Followers-11-brightgreen?style=for-the-badge&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/badge/Following-12-informational?style=for-the-badge&logo=github" alt="Following" />
   
   <br/><br/>
   
-  <a href="https://github.com/anyasauce">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=anyasauce&theme=dark&hide_border=true&background=0d1117" alt="GitHub Streak" />
-  </a>
+  <!-- Contribution Graph (this one should work) -->
+  <img src="https://ghchart.rshah.org/anyasauce" alt="GitHub Contribution Graph" />
   
-  <br/><br/>
-  
-  <a href="https://github.com/anyasauce">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=anyasauce&theme=github-dark&hide_border=true" alt="GitHub Activity Graph" />
-  </a>
+  <br/>
   
 </div>
 
