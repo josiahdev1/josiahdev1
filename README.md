@@ -3,29 +3,29 @@
   # Josiah Danielle Gallenero
   
   [![Portfolio](https://img.shields.io/badge/🚀_Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://josiahh.vercel.app)
-  [![GitHub](https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anyasauce)
-  [![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josiah-danielle-gallenero-750966290/)
-  [![Email](https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josiahdanielle09gallenero@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anyasauce)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josiah-danielle-gallenero-750966290/)
+  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josiahdanielle09gallenero@gmail.com)
   
-  ### *"Building functional and fast solutions, one line of code at a time."* 🚀
+  ### *"Building functional and fast solutions, one line of code at a time."*
   
 </div>
 
 ---
 
-## 👋 About Me
+## About Me
 
 Hey there! I'm **Josiah Danielle Gallenero**, a passionate **Software Developer** based in Iloilo City, Philippines. I specialize in building secure, scalable, and high-performance applications with a focus on clean UI/UX and robust backend architecture.
 
-- 🎓 **BS Information Technology** student at PHINMA University of Iloilo
-- 🏆 **CITEWEEK Hackathon 2025 Champion** - Led a team of 5 developers
-- 💻 **3+ years** of coding experience
-- 🌱 Currently mastering React.js, Next.js, and Laravel
-- ☕ Coffee-powered developer
+- <img src="https://img.icons8.com/color/20/graduation-cap.png" width="16" height="16" alt="graduation"/> **BS Information Technology** student at PHINMA University of Iloilo
+- <img src="https://img.icons8.com/color/20/trophy.png" width="16" height="16" alt="trophy"/> **CITEWEEK Hackathon 2025 Champion** - Led a team of 5 developers
+- <img src="https://img.icons8.com/color/20/code.png" width="16" height="16" alt="code"/> **3+ years** of coding experience
+- <img src="https://img.icons8.com/color/20/react-native.png" width="16" height="16" alt="react"/> Currently mastering React.js, Next.js, and Laravel
+- <img src="https://img.icons8.com/color/20/coffee.png" width="16" height="16" alt="coffee"/> Coffee-powered developer
 
 ---
 
-## 🚀 Core Tech Stack
+## Core Tech Stack
 
 <div align="center">
   
@@ -48,7 +48,7 @@ Hey there! I'm **Josiah Danielle Gallenero**, a passionate **Software Developer*
 
 ---
 
-## 🛠️ Full Tech Stack
+## Full Tech Stack
 
 ### Frontend
 <div align="center">
@@ -109,7 +109,7 @@ Hey there! I'm **Josiah Danielle Gallenero**, a passionate **Software Developer*
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   
@@ -122,11 +122,11 @@ Hey there! I'm **Josiah Danielle Gallenero**, a passionate **Software Developer*
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
 <div align="center">
   
-  | 🏆 Achievement | 📅 Year | 🎯 Impact |
+  | Achievement | Year | Impact |
   |---|---|---|
   | **CITEWEEK Hackathon Champion** | 2025 | Led 5 developers to build a full-stack solution with NO internet access |
   | **Iloilo Startup Hackathon** | 2025 | Team Leader & Full Stack Developer |
@@ -137,7 +137,7 @@ Hey there! I'm **Josiah Danielle Gallenero**, a passionate **Software Developer*
 
 ---
 
-## 📈 WakaTime Stats
+## WakaTime Stats
 
 <div align="center">
   
@@ -147,32 +147,32 @@ Hey there! I'm **Josiah Danielle Gallenero**, a passionate **Software Developer*
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
 <div align="center">
   
-  ### 🏆 Nexus POS & Inventory
+  ### Nexus POS & Inventory
   High-performance POS with real-time stock sync, multi-branch tracking, and comprehensive sales analytics
   
-  ### 🐷 Donezo Piggery Management
+  ### Donezo Piggery Management
   Agricultural ERP tracking livestock growth, cage logistics, and medical records
   
-  ### 🏢 FlexSpace Iloilo
+  ### FlexSpace Iloilo
   Workspace discovery platform with live GPS tracking for co-working hubs
   
 </div>
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <div align="center">
   
-  [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://josiahh.vercel.app)
-  [![GitHub](https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anyasauce)
-  [![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josiah-danielle-gallenero-750966290/)
-  [![Facebook](https://img.shields.io/badge/📘_Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/josiahqt1)
-  [![Email](https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josiahdanielle09gallenero@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://josiahh.vercel.app)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anyasauce)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josiah-danielle-gallenero-750966290/)
+  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/josiahqt1)
+  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josiahdanielle09gallenero@gmail.com)
   
 </div>
 
@@ -180,8 +180,8 @@ Hey there! I'm **Josiah Danielle Gallenero**, a passionate **Software Developer*
 
 <div align="center">
   
-  ### 💡 Fun Fact
-  > I'm a coffee-powered developer who loves cycling, photography, and exploring new technologies!
+### Fun Fact
+> I'm a coffee-powered developer who loves motorcyling, cycling, photography, and exploring new technologies!
   
   ---
   
