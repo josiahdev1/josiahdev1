@@ -24,7 +24,7 @@
 
 ## About Me
 
-Hey there! I'm **Josiah Danielle Gallenero**, a passionate **Software Developer** based in Iloilo City, Philippines. I specialize in building secure, scalable, and high-performance applications with a focus on clean UI/UX and robust backend architecture.
+Hey there! I'm **Josiah Danielle Gallenero**, a passionate **Full-Stack Developer** based in Iloilo City, Philippines. I specialize in building secure, scalable, and high-performance applications with a focus on clean UI/UX and robust backend architecture.
 
 - <img src="https://img.icons8.com/color/20/graduation-cap.png" width="16" height="16" alt="graduation"/> **BS Information Technology** student at PHINMA University of Iloilo
 - <img src="https://img.icons8.com/color/20/trophy.png" width="16" height="16" alt="trophy"/> **CITEWEEK Hackathon 2025 Champion** - Led a team of 5 developers
